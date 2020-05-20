@@ -1,0 +1,15 @@
+[
+    {
+    "studentId":1,
+    "firstname":"Joe",
+    "lastname":"Doe",
+    "grade":"A-"
+    },
+
+    {
+    "studentId":2,
+    "firstname":"James",
+    "lastname":"Smith",
+    "grade":"C"
+    }
+]
